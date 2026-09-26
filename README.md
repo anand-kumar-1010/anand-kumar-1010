@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I’m currently pursuing B.Tech in Computer Science & Engineering (Data Science).<br>💻 I enjoy building real-world software and AI-based projects.<br>🐍 I’m currently working with Python and C.<br>🤖 I’m exploring Artificial Intelligence, Machine Learning, and Generative AI.<br>🧠 I’m interested in developing intelligent and practical solutions.<br>🎙️ I’m currently working on a voice-based AI assistant (JARVIS).
+🎓 I’m currently pursuing B.Tech in Computer Science & Engineering (AI & ML).<br>💻 I enjoy building real-world software and AI-based projects.<br>🐍 I’m currently working with Python and C.<br>🤖 I’m exploring Artificial Intelligence, Machine Learning, and Generative AI.<br>🧠 I’m interested in developing intelligent and practical solutions.<br>🎙️ I’m currently working on a voice-based AI assistant (JARVIS).
 
 
 ## 🌐 Socials:
